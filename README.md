@@ -40,9 +40,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>
 </div>
 
+<!--
 ---
 ### :fire: My Stats :
 <div style="display: flex; align-items: flex-start;">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=WaQw&card_width=500" alt="My github stats" style="height: 200px;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaQw&layout=donut" alt="My github lang stats" style="height: 200px;" /> 
 </div>
+-->
