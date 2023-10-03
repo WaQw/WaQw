@@ -42,4 +42,7 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats :
-[![Top Langs of Anqi](https://github-readme-stats.vercel.app/api/top-langs/?username=WaQw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: flex-start;">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=WaQw&card_width=500" alt="My github stats" style="height: 200px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaQw&layout=donut" alt="My github lang stats" style="height: 200px;" /> 
+</div>
