@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 ---
 ### :fire: My Stats :
 <div style="display: flex; align-items: flex-start;">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=WaQw&date_format=%5BY%20%5DM%20j" alt="My github stats" style="height: 200px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaQw&layout=donut" alt="My github lang stats" style="height: 200px; margin-left: 900px" /> 
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=WaQw&date_format=%5BY%20%5DM%20j" alt="" style="height: 200px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaQw&layout=donut" alt="" style="height: 200px; margin-left: 900px" /> 
 </div>
