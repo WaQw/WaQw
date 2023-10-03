@@ -39,3 +39,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>
 </div>
+
+---
+### :fire: My Stats :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaQw&layout=compact)
